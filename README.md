@@ -10,12 +10,13 @@ Provide details on
 * Form behaviors
 * Success and error reporting
 
-Remember to sketch for both mobile and larger screens.
+Remember to sketch for both mobile and larger screens, and to provide sketches for **every step** in the checkout process.
+
 
 Once you receive instructor approval on your refined sketches, you may begin developing your improved checkout flow in HTML5/CSS.
 
 ## Submission Instructions
-Your instructor will review your sketch phases with you. Please submit only your daily reflection:
+ZIP and upload your sketches in Canvas. Include your lab reflection::
 
 * How long did you spend on this lab?
 * Describe the process you used to complete the lab.
