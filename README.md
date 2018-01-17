@@ -12,7 +12,7 @@ Provide details on
 
 Remember to sketch for both mobile and larger screens, and to provide sketches for **every step** in the checkout process. (I mean **every** step––we'll make a list in class. This is a large assignment.)
 
-Once you receive instructor approval on your refined sketches, you may begin developing your improved checkout flow in HTML5/CSS.
+Remember to test your sketches with fellow students, using the methods we learned yesterday but with new partners. You should be seeking feedback from your TA and/or instructor.
 
 ## Submission Instructions
 ZIP and upload your sketches in Canvas. Include your lab reflection::
